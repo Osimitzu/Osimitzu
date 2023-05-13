@@ -29,7 +29,7 @@
   </ul>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,nodejs,express,postgres,git,github,vscode,py,astro,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,nodejs,express,postgres,sequelize,git,github,py,astro,nextjs)](https://skillicons.dev)
 
 <hr>
 <!-- Stack -->
