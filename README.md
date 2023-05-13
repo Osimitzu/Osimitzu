@@ -23,8 +23,27 @@
 
 
 <!-- Stack -->
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Stack👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,bootstrap,nodejs,express,postgres,git,github,vscode,py,astro,nextjs)](https://skillicons.dev)
+
+<hr>
 <!-- Stack -->
+
+
+<!-- Contact me  -->
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+<!-- Contact me  -->
 
 
 <!-- Footer -->
