@@ -14,7 +14,7 @@
 <p align="center">
   <em>
     Hi, I'm Osiris Contreras, and I'm currently studying Software Development at the <a href="https://ieu.edu.mx" target="blank"> <b>Instituto de Estudios Universitarios</b></a>. <br>
-    I'm about to finish a full-stack web development boot-camp at <a href="https://www.academlo.com" target="blank"> <b>Academlo</b></a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I have also completed my <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RFCZUAAA7XXP" target="blank"> <b>Google IT Support certification</b></a>.
+    I just finish a full-stack web development boot-camp at <a href="https://www.academlo.com" target="blank"> <b>Academlo</b></a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and I have also completed my <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RFCZUAAA7XXP" target="blank"> <b>Google IT Support certification</b></a>.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
