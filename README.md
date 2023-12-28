@@ -15,7 +15,8 @@
   <em>
 <!--     Hi, I'm Osiris Contreras, and I'm currently studying Software Development at the <a href="https://ieu.edu.mx" target="blank"> <b>Instituto de Estudios Universitarios</b></a>. <br>
     I have recently completed the full-stack web development boot-camp at <a href="https://www.academlo.com" target="blank"> <b>Academlo</b></a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and obtained my <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RFCZUAAA7XXP" target="blank"> <b>Google IT Support certification</b></a>. -->
-   Sometimes I get paid to make websites.
+<!--    Sometimes I get paid to make websites. -->
+   ...
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
