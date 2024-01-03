@@ -6,9 +6,9 @@
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=______Software+Engineer______;____Full+Stack+Developer_____" > 
-</p>
+</p> -->
 
 <!-- ABOUT ME -->
 <p align="center">
