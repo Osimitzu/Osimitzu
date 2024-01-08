@@ -1,3 +1,11 @@
+<!-- 
+03/Enero/2024
+04/Enero/2024
+05/Enero/2024
+06/Enero/2024
+07/Enero/2024
+-->
+
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Osiris :octocat:
 </h1>
@@ -94,13 +102,6 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
 </div> 
 
--->
-
-<!-- 
-03/Enero/2024
-04/Enero/2024
-05/Enero/2024
-06/Enero/2024
 -->
 
 
